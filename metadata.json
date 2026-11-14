@@ -1,0 +1,8 @@
+{
+  "name": "Remix 3 The Last 72 Hours — Lunar Outpost Trainer",
+  "description": "First-person 3D educational lunar outpost survival simulation at Aurora South Pole Station.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
